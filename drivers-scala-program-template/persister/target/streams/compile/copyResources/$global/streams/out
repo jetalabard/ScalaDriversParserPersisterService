@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/user/Documents/drivers-scala-program-template/persister/src/main/resources/drivers-hours.xml,/home/user/Documents/drivers-scala-program-template/persister/target/scala-2.11/classes/drivers-hours.xml)[0m
+[0m[[0mdebug[0m] [0m	(/home/user/Documents/drivers-scala-program-template/persister/src/main/resources/drivers-names.json,/home/user/Documents/drivers-scala-program-template/persister/target/scala-2.11/classes/drivers-names.json)[0m
+[0m[[0mdebug[0m] [0m	(/home/user/Documents/drivers-scala-program-template/persister/src/main/resources/drivers-miles.csv,/home/user/Documents/drivers-scala-program-template/persister/target/scala-2.11/classes/drivers-miles.csv)[0m
